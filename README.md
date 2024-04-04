@@ -1,11 +1,3 @@
-# test 
-
-## how  to console.log in javascript
-
-```bash
-npm i
-```
-
-
+# ARABIC LINEAR & NON LINEAR DATA STRUCTRE DEMO
 
 
