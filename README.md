@@ -2,8 +2,8 @@
 
 ## how  to console.log in javascript
 
-```html
-<body></body>
+```bash
+npm i
 ```
 
 
